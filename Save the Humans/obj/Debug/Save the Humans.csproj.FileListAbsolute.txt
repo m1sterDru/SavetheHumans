@@ -1,0 +1,2 @@
+c:\users\dmitriy.kotelnikov\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe.config
+D:\VisualStudioProject\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe.config
